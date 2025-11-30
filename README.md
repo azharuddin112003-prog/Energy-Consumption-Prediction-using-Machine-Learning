@@ -1,0 +1,2 @@
+# Energy-Consumption-Prediction-using-Machine-Learning
+This project develops a machine learning model to forecast future household energy consumption based on historical usage patterns. The workflow includes data preprocessing, exploratory data analysis, feature engineering (lag features &amp; rolling averages), and training a Random Forest regression model. Model accuracy is evaluated using RMSE and MAPE.
